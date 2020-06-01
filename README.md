@@ -2,7 +2,7 @@
 
 ## About
 
-App that uses the [SpaceX API](https://docs.spacexdata.com/?version=latest).
+App that uses the [SpaceX API](https://docs.spacexdata.com/?version=latest).  
 I created this to learn [Svelte](https://svelte.dev/).
 
 ## Installation and setup
