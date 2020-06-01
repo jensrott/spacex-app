@@ -1,0 +1,8 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+todos.md
+client_deploy.sh
+push_repo.sh
